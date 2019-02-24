@@ -47,5 +47,5 @@ print("Would you like to Email the Encrypted file to your friend")
 print("1 . Yes")
 print("2 . No")
 opt=int(input())
-if opt==2:
-	print("Thanks for encrypting the data.")
+if opt==1:
+	# email functionality
